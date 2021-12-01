@@ -5,7 +5,9 @@ This code compares the AirBnB prices for Boston and Seattle using a one-year cal
 3-	What percentage of the location providers alters price over the course of a year?
  The following links will take you to the Kaggle website where you can get the data set:
 https://www.kaggle.com/airbnb/boston# 
+
 https://www.kaggle.com/airbnb/seattle/data# 
+
 The code has been broken down into four Blocks.
 
 ## Block 1
