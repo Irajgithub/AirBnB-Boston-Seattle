@@ -3,7 +3,7 @@ This code compares the AirBnB prices for Boston and Seattle using a one-year cal
 1-	Is AirBnB more costly in Boston or Seattle, on average?
 2-	Is there pricing fluctuation over a year?
 3-	What percentage of the location providers alters price over the course of a year?
- The following links will take you to the Kaggle website where you can get the data set:
+ You can find the data set as a zip file here or use the following links that will take you to the Kaggle website where you can get the data set:
 https://www.kaggle.com/airbnb/boston# 
 
 https://www.kaggle.com/airbnb/seattle/data# 
