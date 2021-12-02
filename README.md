@@ -7,6 +7,7 @@ This code compares the Airbnb prices for Boston and Seattle using a one-year cal
 You can find the data set as a zip file here or use the following links that will take you to the Kaggle website where you can get the data set:
 
 https://www.kaggle.com/Airbnb/boston# 
+
 https://www.kaggle.com/Airbnb/seattle/data# 
 
 The code has been broken down into the six Sections.
